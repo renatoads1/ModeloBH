@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qazvPHP/lsIljle6icUoSdFE0g5F80XJnrfrPF6OB+1K+Nz8EUdaukwdUEliF/qJEA+fSTf2ki6iX0tyLsVHTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renatolacerda\\source\\repos\\ModeloBH\\ModelosBH\\ModelosBH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renatolacerda\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.6\\microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

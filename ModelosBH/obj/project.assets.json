@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renatolacerda\\source\\repos\\ModelosBHProj\\ModelosBH\\ModelosBH.csproj",
+      "projectUniqueName": "C:\\Users\\renatolacerda\\source\\repos\\ModeloBH\\ModelosBH\\ModelosBH.csproj",
       "projectName": "ModelosBH",
-      "projectPath": "C:\\Users\\renatolacerda\\source\\repos\\ModelosBHProj\\ModelosBH\\ModelosBH.csproj",
+      "projectPath": "C:\\Users\\renatolacerda\\source\\repos\\ModeloBH\\ModelosBH\\ModelosBH.csproj",
       "packagesPath": "C:\\Users\\renatolacerda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renatolacerda\\source\\repos\\ModelosBHProj\\ModelosBH\\obj\\",
+      "outputPath": "C:\\Users\\renatolacerda\\source\\repos\\ModeloBH\\ModelosBH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -22,8 +22,14 @@ namespace ModelosBH.Controllers
         {
             return View();
         }
-
+        public IActionResult Profile()
+        {
+            return View();
+        }
         public IActionResult Privacy()
+        {
+            return View();
+        } public IActionResult Contacts()
         {
             return View();
         }
